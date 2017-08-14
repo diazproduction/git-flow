@@ -1,5 +1,7 @@
 # git-flow
 
+`git flow feature track <feature-name>`
+
 # BENİ OKU!
 
 Have fun!
